@@ -1,0 +1,96 @@
+Tableau d'effectifs pour id_12 :
+isFraud        0      1
+id_12                  
+Found      19939   1269
+NotFound  112976  10049
+
+===========
+Tableau d'effectifs pour P_emaildomain :
+isFraud                0     1
+P_emaildomain                 
+aim.com              275    40
+anonymous.com      36139   859
+aol.com            27672   617
+att.net             4003    30
+bellsouth.net       1856    53
+cableone.net         156     3
+centurylink.net      205     0
+cfl.rr.com           172     0
+charter.net          791    25
+comcast.net         7642   246
+cox.net             1364    29
+earthlink.net        503    11
+embarqmail.com       251     9
+frontier.com         272     8
+frontiernet.net      190     5
+gmail                485    11
+gmail.com         218412  9943
+gmx.de               149     0
+hotmail.co.uk        112     0
+hotmail.com        42854  2396
+hotmail.de            43     0
+hotmail.es           285    20
+hotmail.fr           295     0
+icloud.com          6070   197
+juno.com             316     6
+live.com            2957    84
+live.com.mx          708    41
+live.fr               56     0
+mac.com              422    14
+mail.com             453   106
+me.com              1495    27
+msn.com             4002    90
+netzero.com          230     0
+netzero.net          195     1
+optonline.net        994    17
+outlook.com         4614   482
+outlook.es           381    57
+prodigy.net.mx       206     1
+protonmail.com        45    31
+ptd.net               68     0
+q.com                189     0
+roadrunner.com       302     3
+rocketmail.com       662     2
+sbcglobal.net       2958    12
+sc.rr.com            163     1
+servicios-ta.com      35     0
+suddenlink.net       171     4
+twc.com              230     0
+verizon.net         2683    22
+web.de               240     0
+windstream.net       305     0
+yahoo.co.jp           32     0
+yahoo.co.uk           49     0
+yahoo.com          98637  2297
+yahoo.com.mx        1527    16
+yahoo.de              74     0
+yahoo.es             132     2
+yahoo.fr             138     5
+ymail.com           2346    50
+
+==============
+Tableau d'effectifs pour card4 :
+isFraud                0      1
+card4                          
+american express    8089    239
+discover            6137    514
+mastercard        182721   6496
+visa              371394  13373
+================
+Tableau d'effectifs pour card6 :
+isFraud               0      1
+card6                         
+charge card          15      0
+credit           139036   9950
+debit            429264  10674
+debit or credit      30      0
+
+==============
+Tableau d'effectifs pour ProductCD :
+isFraud         0     1
+ProductCD              
+C           60511  8008
+H           31450  1574
+R           36273  1426
+S           10942   686
+W          430701  8969
