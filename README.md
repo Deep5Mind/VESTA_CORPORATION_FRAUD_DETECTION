@@ -7,7 +7,6 @@ Ce projet vise à développer un modèle de machine learning pour détecter les 
 
 ##  Arborescence du projet
 
-Absolument. Voici la structure de votre arborescence de projet, nettoyée de tous les emojis et prête à être copiée directement dans la section `## Arborescence du Projet` de votre `README.md` sur GitHub.
 
 -----
 
@@ -35,7 +34,7 @@ Cette structure organise le projet de détection de fraude IEEE en étapes logiq
 
 -----
 
-Voulez-vous que je vous assiste dans la rédaction du contenu de votre fichier `README.md` (sections Installation, Usage, Résultats) pour compléter votre documentation de projet ?
+
 
 ## Instructions
 Cloner le dépôt
@@ -64,4 +63,5 @@ Le meilleur modèle obtenu est un Random Forest avec SMOTE (oversampling), qui a
 AUC : 0.94
 
 F2 score : 0.74
+
 
