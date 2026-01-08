@@ -3,11 +3,6 @@
 Ce projet vise à développer un modèle de machine learning pour détecter les fraudes dans les transactions.  
 
 
----
-
-##  Arborescence du projet
-
-
 -----
 
 ## Arborescence du Projet : 01-ieee-fraud-detection
@@ -63,5 +58,6 @@ Le meilleur modèle obtenu est un Random Forest avec SMOTE (oversampling), qui a
 AUC : 0.94
 
 F2 score : 0.74
+
 
 
